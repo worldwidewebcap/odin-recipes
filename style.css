@@ -24,6 +24,7 @@ li {
 a {
     text-decoration: none;
     font-family: 'Courier New', Courier, monospace;
+    color: black;
 }
 
 .flex {
