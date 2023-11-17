@@ -22,6 +22,10 @@ a {
     font-family: 'Courier New', Courier, monospace;
 }
 
-.center {
+.text-center {
     text-align: center;
+}
+
+.odin {
+    width: 35px;
 }
