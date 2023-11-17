@@ -5,6 +5,7 @@
 
 h1 {
     text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 ul {
@@ -20,4 +21,3 @@ li {
 a {
     text-decoration: none;
 }
-
