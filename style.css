@@ -27,12 +27,21 @@ a {
     color: black;
 }
 
+.container {
+    height: 100vh;
+}
+
+.column {
+    flex-direction: column;
+}
+
 .flex {
     display: flex;
 }
 
 .center {
     justify-content: center;
+    align-items: center;
 }
 
 .text-center {
@@ -41,4 +50,5 @@ a {
 
 .odin-icon {
     margin-top: 30px;
+    height: 350px;
 }
